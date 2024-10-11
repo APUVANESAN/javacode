@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class red {
+public class Graph {
      ArrayList<ArrayList<Integer>> list = new ArrayList<>();
      public red(int v) {
         for (int i = 0; i < v; i++) {
