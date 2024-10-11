@@ -1,5 +1,6 @@
 import java.util.*;
-class bounce{
+class bounce
+{
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
         int H = obj.nextInt();
